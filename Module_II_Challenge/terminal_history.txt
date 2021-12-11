@@ -1,0 +1,903 @@
+   50  ls
+   51  cd desktop
+   52  ls
+   53  mkdir fintech_workspace
+   54  ls
+   55  cd fintech_workspace
+   56  ls
+   57  cd ..
+   58  cd~
+   59  cd !
+   60  cd ~
+   61   conda create -n dev python-3.7 anaconda
+   62   conda create -n dev python-3.10 anaconda
+   63  cd desktop
+   64  cd fintech_worskspace
+   65  cd fintech workspace
+   66  cd fintech_workspace
+   67  cd python_project
+   68  conda activate dev
+   69  python --version
+   70   conda create -n dev python-3.9.7 anaconda
+   71  code
+   72  conda --version
+   73  conda create -n myenv python
+   74  conda activate myenv
+   75  conda activate dev
+   76  conda update conda
+   77  conda create -n dev python=3.7 anaconda 
+   78  conda activcate dev
+   79  y
+   80  conda activate dev
+   81  conda deactivat
+   82  conda deactivate 
+   83  conda deactivate
+   84  /Users/CAM/Desktop/01_Hello_Variable_World/Unsolved/hello_variable_world.py 
+   85  cd desktop
+   86  cd /Users/CAM/Desktop/01_Hello_Variable_World 
+   87  conda activate
+   88  conda activate
+   89  python /Users/CAM/Desktop/01_Hello_Variable_World/Solved/hello_variable_world.py 
+   90  python /Users/CAM/Desktop/01_Hello_Variable_World/Unsolved/hello_variable_world.py 
+   91  python /Users/CAM/Desktop/01_Hello_Variable_World/Unsolved/hello_variable_world.py 
+   92  cd desktop
+   93  cd class_1_activities
+   94  ls
+   95  cd 02
+   96  ls
+   97  cd 02_stu_percent_increase
+   98  ls
+   99  cd unsolved
+  100  conda activate
+  101  conda activate myenv
+  102  unsolved.py
+  103  unsolved
+  104  python3 unsolved
+  105  python unsolved
+  106  python -unsolved
+  107  /Users/CAM/Desktop/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py 
+  108  python /Users/CAM/Desktop/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py 
+  109  /Users/CAM/Desktop/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py 
+  110  python 
+  111  contra activate myenv
+  112  conda activaye myenv
+  113  conda activate dev
+  114  cd desktop
+  115  cd 01_hello_variable_world
+  116  ls
+  117  cd solved
+  118  python3 solved.py
+  119  python solved.py
+  120  python --version
+  121  code -vs
+  122  code vs
+  123  python unsolved.py
+  124  conda activate myenv
+  125  python solved.py
+  126  ls
+  127  python hello_variable_world.py
+  128  conda deactivate
+  129  conda deactivate
+  130  cd desktio
+  131  cd desktop
+  132  ls
+  133  cd 03_the_401k_suffle
+  134  cd 03_The_401k_Shuffle
+  135  ls
+  136  cd solved
+  137  ls
+  138  python stockprive.py
+  139  python stockprice.py
+  140  cd desktop
+  141  cd rust_programming_language
+  142  ls
+  143  cd rust programming language
+  144  cd Rust Programming Language
+  145  cd Rust_Programming_language
+  146  mkdir ~-projects
+  147  mkdir ~/projects
+  148  cd projects
+  149  ls
+  150  cd mkdir projects
+  151  mkdir ~/projects
+  152  cd cam
+  153  cd /users/cam/projects
+  154  rustc main.rs
+  155  ls
+  156  rustc hello_world.rs
+  157  cd hello_world
+  158  ls
+  159  rustc
+  160  rustc -v
+  161  cargo run
+  162  cd desktop
+  163  cd /Users/CAM/Desktop/Rust\ Programming\ Language 
+  164  ls
+  165  cd practice
+  166  ls
+  167  cargo run
+  168  cargo build
+  169  cargo new guessing_game
+  170  rustc
+  171  cd desktop
+  172  ls
+  173  cd python practice
+  174  cd Python_practice
+  175  cd python practice
+  176  cd desktop/pythonpractice
+  177  cd pythonpractice
+  178  cd /Users/CAM/Desktop/Python\ Practice 
+  179  ls
+  180  ls
+  181  cd desktop
+  182  ls
+  183  conda acticate
+  184  conda activate
+  185  conda acticate dev
+  186  conda activate
+  187  conda activate myenv
+  188  conda activate dev
+  189  ls
+  190  cd 01_hello_variable_world
+  191  ls
+  192  cd solved
+  193  ls
+  194  python hello_variable_world.py
+  195  conda deactivate
+  196  conda deactivate
+  197  cd dir
+  198  cd home
+  199  cd desktop
+  200  exit
+  201  pip install fir
+  202  pip install fire
+  203  pip -v
+  204  pip --V
+  205  pip -V
+  206  pip install questionary\n
+  207  import pathlib
+  208  contra activate myenv
+  209  conda activate myenv
+  210  conda activate mydev
+  211  conda activate dev
+  212  import path
+  213  pip install questionary
+  214  conda activate myenv
+  215  conda activate dev
+  216  cd desktop
+  217  ls
+  218  cd fintech_workspace
+  219  ls
+  220  cd cli.py
+  221  python cli.py --pants=True
+  222  python cli.py --pants=True
+  223  ;s
+  224  ls
+  225  python cli.py
+  226  import fire
+  227  pip install fire
+  228  ls
+  229  python cli.py --pants=True
+  230  conda deactivate
+  231  conda deactivate
+  232  cd deskto
+  233  cd desktop
+  234  pip install fire
+  235  pip install pytest
+  236  pip install fire
+  237  cd icloud
+  238  cd desktop
+  239  git clone https://github.com/mightymiklas/atm_application
+  240  git status
+  241  cd atm application
+  242  ls
+  243  cd atm_application
+  244  git status
+  245  git push
+  246  git commit -a
+  247  cd desktop
+  248  cd atm_Application
+  249  git commit
+  250  git clone
+  251  git clone
+  252  git add
+  253  got add .djjf
+  254  git add "hello"
+  255  git add. hfhsdkd
+  256  git add.fjfjs
+  257  git commit -m hello
+  258  git commit
+  259  git commit
+  260  git add 
+  261  git commit -a
+  262  /usr/local/bin/python3 /Users/CAM/Desktop/fintech_workspace/Python_Project/hello_python.py
+  263  /usr/local/bin/python3 /Users/CAM/Desktop/fintech_workspace/Python_Project/hello_python.py
+  264  /usr/local/bin/python3 /Users/CAM/Desktop/fintech_workspace/01/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  265  /usr/local/bin/python3 /Users/CAM/Desktop/fintech_workspace/01/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  266  /usr/local/bin/python3 /Users/CAM/Desktop/fintech_workspace/01/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  267  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  268  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  269  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  270  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  271  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  272  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  273  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  274  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  275  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  276  git atm.py git atm.py git commit 
+  277  git --help
+  278  git -- help
+  279  sudo port install lazygit
+  280  sudo
+  281  sudo port install lazygit
+  282  sudo
+  283  sudo -k
+  284  sudo port install lazygit\n
+  285  install lazygit
+  286  git install lazygit
+  287  brew install lazygit\n
+  288  source /Users/CAM/opt/anaconda3/bin/activate
+  289  conda activate base
+  290  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/Class_1_Activities/06_Stu_Working_with_Dictionaries/Solved/dictionaries.py
+  291  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  292  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  293  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  294  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  295  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  296  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  297  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  298  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  299  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  300  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  301  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  302  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  303  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  304  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  305  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  306  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  307  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/fintech_workspace/01/test.py
+  308  /usr/local/bin/python3 "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  309  get install fire
+  310  brew install fire
+  311  brew install firebase-cli
+  312  brew install arrayfire
+  313  sudo
+  314  sudo pip install fire
+  315  pip install fire
+  316  pip install fire
+  317  /usr/local/bin/python3 "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  318  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  319  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  320  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  321  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  322  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  323  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  324  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  325  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  326  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  327  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  328  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  329  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  330  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  331  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  332  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  333  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  334  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  335  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  336  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  337  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  338  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  339  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  340  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  341  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  342  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  343  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  344  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  345  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  346  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  347  /usr/local/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  348  /usr/local/bin/python3.4 "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  349  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  350  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  351  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  352  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  353  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  354  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  355  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  356  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  357  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  358  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  359  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  360  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  361  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  362  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  363  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  364  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/qualifier/filters/credit_score.py"
+  365  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/qualifier/filters/credit_score.py"
+  366  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  367  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  368  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  369  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  370  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  371  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  372  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  373  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  374  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  375  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  376  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Starter_Code 2 copy/loan_qualifier_app/test.py"
+  377  source /Users/CAM/opt/anaconda3/bin/activate
+  378  conda activate base
+  379  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  380  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  381  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  382  cd desktop
+  383  conda activate dev
+  384  conda activate myenv
+  385  conda activate dev
+  386  python /Users/CAM/Desktop/Module\ II\ Challenge\ Files\ OG\ copy/loan_qualifier_app/app.py 
+  387  python /Users/CAM/Desktop/Module\ II\ Challenge\ Files\ OG\ copy/loan_qualifier_app/app.py 
+  388  source /Users/CAM/opt/anaconda3/bin/activate
+  389  conda activate base
+  390  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  391  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  392  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  393  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  394  /Users/CAM/opt/anaconda3/envs/dev/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  395  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  396  source /Users/CAM/opt/anaconda3/bin/activate
+  397  conda activate base
+  398   /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60870 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  399   /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60893 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  400  source /Users/CAM/opt/anaconda3/bin/activate
+  401  conda activate base
+  402   cd "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app" ; /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60899 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  403  conda activate myenv
+  404  python /Users/CAM/Desktop/Module\ II\ Challenge\ Files\ OG\ copy/loan_qualifier_app/app.py 
+  405  conda activate myenv
+  406  python /Users/CAM/Desktop/Module\ II\ Challenge\ Files\ OG\ copy/loan_qualifier_app/test.py 
+  407  cd desktop
+  408  ls
+  409  cd Module II Challenge Files OG Copy
+  410  cd Module_II_Challenge_Files_OG_Copy
+  411  cdModule II Challenge Files OG copy
+  412  cd Module II Challenge Files OG copy
+  413  cd Module_II_Challenge_Files_OG_copy
+  414  cd /Users/CAM/Desktop/Module\ II\ Challenge\ Files\ OG\ copy 
+  415  ls
+  416  cd loan_qualifier_app
+  417  ls
+  418  python test.py
+  419  conda activate dev
+  420  python test.py
+  421  python app.py
+  422  pip install questionary
+  423  python app.py
+  424  pip install fire
+  425  python3 app.py
+  426  cd desktop
+  427  cd desktop
+  428  cd Desktop
+  429  exit
+  430  cd desktop
+  431  cd 
+  432  cd ''
+  433  conda activate myenv
+  434  pip install fire
+  435  conda activate dev
+  436  pip install fire
+  437  conda activate myenv
+  438  pip install questionary
+  439  cd desktop
+  440  cd /Users/CAM/Desktop/Module\ II\ Challenge\ Files\ OG\ copy 
+  441  ls
+  442  cd loan_qualifier_app
+  443  ls
+  444  python app.py
+  445  source /Users/CAM/opt/anaconda3/bin/activate
+  446  conda activate base
+  447   /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54630 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  448  pip install jupiter
+  449  conda activate myenv
+  450  jupiterlab
+  451  jupiter
+  452  jupyter
+  453  jupyterlab
+  454  pip install jupyter
+  455  jupyter-lab\n
+  456  conda activate myenv
+  457  jupyter-lab\n
+  458  export PATH="$HOME/.local/bin:$:/users/"
+  459  exit
+  460  export PATH="/Users/CAM/.local/bin:/Users/CAM/Library/Caches/pip/wheels/80/32/8d/21cf0fa6ee4e083f6530e5b83dfdfa9489a3890d320803f4c7/"
+  461  conda activate myenv
+  462  export PATH="/Users/CAM/Library/Caches/pip/wheels/80/32/8d/21cf0fa6ee4e083f6530e5b83dfdfa9489a3890d320803f4c7/.local/bin:/Users/CAM/"\n
+  463  jupyter-lab\n
+  464  conda activate myenv
+  465  cond activate myenv
+  466  conda activate myenv
+  467  conda activate dev
+  468  source /Users/CAM/opt/anaconda3/bin/activate
+  469  conda activate base
+  470  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  471  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  472  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  473   /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56741 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  474  source /Users/CAM/opt/anaconda3/bin/activate
+  475  conda activate base
+  476  source /Users/CAM/opt/anaconda3/bin/activate
+  477  conda activate base
+  478   /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56603 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  479   /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56586 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  480  source /Users/CAM/opt/anaconda3/bin/activate
+  481   /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56586 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  482  source /Users/CAM/opt/anaconda3/bin/activate
+  483  source /Users/CAM/opt/anaconda3/bin/activate
+  484  conda activate base
+  485   /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56504 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  486  source /Users/CAM/opt/anaconda3/bin/activate
+  487  conda activate base
+  488   /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56444 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  489  conda install -c conda-forge jupyterlab
+  490  jupyter-lab\n
+  491  conda activate myenv
+  492  cd desktop
+  493  cd /Users/CAM/Desktop/Class_2_Activities 
+  494  jupyter-lab
+  495  jupyter notebook\n
+  496  cd desktop
+  497  cd /Users/CAM/Desktop/Class_1_Activities_dec_07 
+  498  ls
+  499  conda activate myenv
+  500  jupyter-lab
+  501  jupyter-lab\n
+  502  jupyter notebook\n
+  503  cd /Users/CAM/Desktop/Class_II_Activities\ 2_DEC_07 
+  504  conda activate myenv
+  505  jupyter notebook\n
+  506  conda activate myenv
+  507  conda install pandas
+  508  conda install numpy
+  509  pip install pandas
+  510  pip install numpy
+  511  conda activate myenv
+  512  pip install numpy
+  513  pip install pandas
+  514  pd.test()\npytest --skip-s;pw
+  515  cd desktop
+  516  cd /Users/CAM/Downloads/FinTech-UW-2021-11-main 
+  517  conda activate
+  518  conda activate myenv
+  519  jupyter notebook\n
+  520  cd /Users/CAM/Desktop/CLASS\ ACT\ II\ DEC_07 
+  521  conda activate myenv
+  522  jupyter notebook\n
+  523  cd desktop
+  524  cd /Users/CAM/Desktop/Module\ II\ Challenge\ Files\ OG\ copy 
+  525  history 50 > terminal_history.txt\n
+  526  cd desktop
+  527  git clone https://github.com/mightymiklas/Module-II-Challenge
+  528  cd desktop
+  529  cd desktop
+  530  cd 
+  531  cd desktop
+  532  git clone https://github.com/mightymiklas/Module-II-Challenge
+  533  pip install fire
+  534  conda activate myenv
+  535  pip install fire
+  536  conda activate dev
+  537  pip install fire
+  538   /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61318 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  539  source /Users/CAM/opt/anaconda3/bin/activate
+  540  conda activate base
+  541   cd "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app" ; /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61420 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  542  source /Users/CAM/opt/anaconda3/bin/activate
+  543  conda activate base
+  544   /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61333 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  545  source /Users/CAM/opt/anaconda3/bin/activate
+  546  conda activate base
+  547   /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61341 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  548   cd "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app" ; /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61349 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  549   cd "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app" ; /usr/bin/env /usr/local/bin/python3 /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61369 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  550   /usr/bin/env /Users/CAM/opt/anaconda3/envs/dev/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61377 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  551  source /Users/CAM/opt/anaconda3/bin/activate
+  552  conda activate dev
+  553   cd "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app" ; /usr/bin/env /usr/local/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61386 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  554   cd "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app" ; /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61392 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  555   cd "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app" ; /usr/bin/env /Users/CAM/opt/anaconda3/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61399 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  556   cd "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app" ; /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61408 -- "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py" 
+  557  cd desktop
+  558  cd /Users/CAM/Desktop/Module\ II\ Challenge\ Files\ OG\ copy 
+  559  ls
+  560  cd loan_qualifier_app
+  561  ls
+  562  conda activate myenv
+  563  python3 app.py
+  564  python app.py
+  565  source /Users/CAM/opt/anaconda3/bin/activate
+  566  conda activate base
+  567  source /Users/CAM/opt/anaconda3/bin/activate
+  568  conda activate base
+  569  source /Users/CAM/opt/anaconda3/bin/activate
+  570  conda activate base
+  571  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  572  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  573  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  574  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  575  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  576  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  577  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  578  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  579  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  580  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  581  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  582  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  583  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  584  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  585  /Users/CAM/opt/anaconda3/envs/dev/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  586  /Users/CAM/opt/anaconda3/envs/dev/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  587  /Users/CAM/opt/anaconda3/envs/dev/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  588  /Users/CAM/opt/anaconda3/envs/dev/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  589  /Users/CAM/opt/anaconda3/envs/dev/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  590  /Users/CAM/opt/anaconda3/envs/dev/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  591  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  592  /Users/CAM/opt/anaconda3/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  593  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  594  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  595  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  596  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  597  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  598  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  599  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  600  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  601  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  602  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  603  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  604  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  605  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  606  CD DESKTOP
+  607  cd desktop
+  608  cd /Users/CAM/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2 
+  609  ls
+  610  cd /Users/CAM/Desktop/Module\ II\ Challenge\ Files\ OG\ copy 
+  611  ls
+  612  cd loan_qualifier_app
+  613  ls
+  614  python app.py --credit_score=750 --debt=5000 --income=20000\n
+  615  python app.py --credit_score=750 --debt=5000 --income=20000
+  616  python app.py --credit_score=750 --debt=5000 --income=20000 --loan_amount=50000
+  617  python app.py --credit_score=750 --debt=5000 --income=20000 --loan_amount=50000 --home_value:2000000
+  618  --credit_score=750 --debt=5000 --income=20000 --loan_amount=50000 --home_value=200000
+  619  python app.py --credit_score=750 --debt=5000 --income=20000 --loan_amount=50000 --home_value=300000
+  620  python app.py
+  621  app.py --help
+  622  app.py --help
+  623  conda activate myenv
+  624  python app.py --credit_score=750 --debt=5000 --income=20000 --loan_amount=50000 --home_value=300000\n
+  625  source /Users/CAM/opt/anaconda3/bin/activate
+  626  conda activate myenv
+  627  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  628  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  629  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  630  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  631  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  632  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  633  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  634  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  635  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  636  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  637  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  638  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  639  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  640  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  641  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  642  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  643  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  644  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  645  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  646  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  647  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  648  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  649  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  650  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  651  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  652  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  653  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  654  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  655  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  656  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  657  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  658  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  659  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  660  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  661  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  662  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  663  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  664  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  665  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  666  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  667  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  668  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  669  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  670  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  671  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Module II Challenge Files OG copy/loan_qualifier_app/app.py"
+  672  source /Users/CAM/opt/anaconda3/bin/activate
+  673  conda activate myenv
+  674  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  675  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  676  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  677  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  678  cd /Users/CAM/Desktop/Module\ II\ Challenge\ Files\ OG\ copy 
+  679  ''
+  680  path
+  681  cd /Users/CAM/Desktop/Module\ II\ Challenge\ Files\ OG\ copy/loan_qualifier_app/data/daily_rate_sheet.csv 
+  682  cd desktop
+  683  cd desktop
+  684  ''
+  685  cd /Users/CAM/Desktop/OG 
+  686  ls
+  687  cd loan_qualifier_app
+  688  ls
+  689  python app.py
+  690  python app.py
+  691  conda activate myenv
+  692  python app.py
+  693  python app.py /Users/CAM/Desktop/OG/loan_qualifier_app/data/daily_rate_sheet.csv
+  694  python app.py
+  695  python app.py
+  696  /Users/CAM/Desktop/OG/loan_qualifier\n_app/data/daily_rate_sheet.csv
+  697  /Users/CAM/Desktop/OG/loan_qualifier_app/data/daily_rate_sheet.csv 
+  698  /Users/CAM/Desktop/OG/loan_qualifier_app/data/daily_rate_sheet.csv 
+  699  python app.py
+  700  cd desktop
+  701  git clone https://github.com/mightymiklas/module-challenge-1
+  702  source /Users/CAM/opt/anaconda3/bin/activate
+  703  conda activate myenv
+  704  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  705  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  706  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  707  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  708  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  709  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  710  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  711  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  712  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  713  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  714  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  715  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  716  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  717  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  718  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  719  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  720  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  721  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  722  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  723  /Users/CAM/opt/anaconda3/envs/myenv/bin/python
+  724  source /Users/CAM/opt/anaconda3/bin/activate
+  725  conda activate myenv
+  726  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  727  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  728  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  729  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  730  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  731  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  732  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  733  source /Users/CAM/opt/anaconda3/bin/activate
+  734  conda activate myenv
+  735  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  736  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  737  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  738  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  739  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  740  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  741  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  742  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  743  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  744  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  745  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  746  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  747  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  748  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  749  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  750  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  751  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  752  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  753  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  754  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  755  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  756  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  757  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  758  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  759  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  760  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  761  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  762  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  763  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  764  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  765  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  766  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  767  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  768  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  769  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  770  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  771  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  772  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  773  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  774  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  775  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  776  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  777  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  778  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  779  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  780  /Users/CAM/opt/anaconda3/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  781  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  782  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  783  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  784  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  785  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  786  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  787  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  788  /Users/CAM/Desktop/OG/loan_qualifier_app/data/daily_rate_sheet.csv
+  789  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  790  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  791  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  792  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  793  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  794  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  795  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  796  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  797  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  798  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  799  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  800  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  801  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  802  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  803  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  804  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  805  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  806  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  807  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  808  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  809  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  810  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  811  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  812  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  813  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  814  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  815  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  816  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  817  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  818  /Users/CAM/Desktop/OG/loan_qualifier_app/data/daily_rate_sheet.csv
+  819  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  820  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  821  import csv
+  822  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  823  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  824  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  825  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  826  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  827  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  828  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  829  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  830  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  831  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  832  source /Users/CAM/opt/anaconda3/bin/activate
+  833  conda activate myenv
+  834   /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 50470 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  835   cd /Users/CAM/Desktop/OG/loan_qualifier_app ; /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51003 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  836  source /Users/CAM/opt/anaconda3/bin/activate
+  837  conda activate myenv
+  838   /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 50307 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  839   /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 50381 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  840   /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 50975 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  841  with open ("file.csv",'w') as f:
+  842  /Users/CAM/Desktop/OG/loan_qualifier_app/data/daily_rate_sheet.csv
+  843   /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 50457 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  844  /Users/CAM/Desktop/OG/loan_qualifier_app/data/daily_rate_sheet.csv
+  845   /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 50297 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  846  source /Users/CAM/opt/anaconda3/bin/activate
+  847  conda activate myenv
+  848   /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 50406 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  849   /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 60323 -- /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py 
+  850  source /Users/CAM/opt/anaconda3/bin/activate
+  851  conda activate myenv
+  852   cd /Users/CAM/Desktop/OG/loan_qualifier_app ; /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 60339 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  853  /Users/CAM/Desktop/
+  854   cd /Users/CAM/Desktop/OG/loan_qualifier_app ; /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 60838 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  855   /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51969 -- /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py 
+  856  source /Users/CAM/opt/anaconda3/bin/activate
+  857  conda activate myenv
+  858   cd /Users/CAM/Desktop/OG/loan_qualifier_app ; /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 60296 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  859   cd /Users/CAM/Desktop/OG/loan_qualifier_app ; /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 60608 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  860  source /Users/CAM/opt/anaconda3/bin/activate
+  861   /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 60410 -- /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py 
+  862  conda activate myenv
+  863   /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 60405 -- /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py 
+  864  source /Users/CAM/opt/anaconda3/bin/activate
+  865  conda activate myenv
+  866  source /Users/CAM/opt/anaconda3/bin/activate
+  867  conda activate myenv
+  868  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  869  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  870  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  871  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  872  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  873  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  874  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  875  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  876  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  877  /Users/CAM/Desktop/OG/loan_qualifier_app/data/daily_rate_sheet.csv
+  878  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  879  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  880  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  881  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  882  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  883  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  884  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  885  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  886  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  887  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  888  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  889  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  890  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  891  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  892  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  893  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Starter_Code 4/loan_qualifier_app/app.py"
+  894  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Starter_Code 4/loan_qualifier_app/app.py"
+  895  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  896  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  897  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  898  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Starter_Code 4/loan_qualifier_app/app.py"
+  899  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Starter_Code 4/loan_qualifier_app/app.py"
+  900  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Starter_Code 4/loan_qualifier_app/app.py"
+  901  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Starter_Code 4/loan_qualifier_app/app.py"
+  902  /Users/CAM/opt/anaconda3/envs/myenv/bin/python "/Users/CAM/Desktop/Starter_Code 4/loan_qualifier_app/app.py"
+  903  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  904  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  905  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  906  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  907  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  908  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  909  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  910  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  911  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  912  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  913  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  914  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  915  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  916  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  917  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  918  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  919  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  920  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  921  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py
+  922  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  923  source /Users/CAM/opt/anaconda3/bin/activate
+  924  conda activate myenv
+  925   /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 60352 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  926   cd /Users/CAM/Desktop/OG/loan_qualifier_app ; /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 60638 -- /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py 
+  927   cd /Users/CAM/Desktop/OG/loan_qualifier_app ; /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 60644 -- /Users/CAM/Desktop/OG/loan_qualifier_app/qualifier/utils/fileio.py 
+  928   cd /Users/CAM/Desktop/OG/loan_qualifier_app ; /usr/bin/env /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 60652 -- /Users/CAM/Desktop/OG/loan_qualifier_app/app.py 
+  929  cd desktop
+  930  cd og
+  931  cd loan_qualifier_app
+  932  ls
+  933  ls
+  934  ls
+  935  ls
+  936  ls
+  937  ls
+  938  /Users/CAM/Desktop/OG/loan_qualifier_app/data
+  939  git push /Users/CAM/Desktop/OG 
+  940  ls
+  941  cd data
+  942  ls
+  943  /Users/CAM/Desktop/OG/loan_qualifier_app/data/daily_rate_sheet.csv 
+  944  cd /Users/CAM/Desktop/Starter_Code\ 4/loan_qualifier_app 
+  945  ls
+  946  conda activate myenv
+  947  python app.py
+  948  source /Users/CAM/opt/anaconda3/bin/activate
+  949  conda activate myenv
+  950  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  951  /Users/CAM/opt/anaconda3/envs/myenv/bin/python /Users/CAM/Desktop/OG/loan_qualifier_app/app.py
+  952  cd /Users/CAM/Desktop/OG 
